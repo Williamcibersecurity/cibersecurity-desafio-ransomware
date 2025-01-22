@@ -1,1 +1,1 @@
-alo brasil
+echo "Este arquivo está legível" > teste.txt
